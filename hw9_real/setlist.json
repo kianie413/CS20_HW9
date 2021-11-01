@@ -1,0 +1,62 @@
+[
+    {
+        "title" : "365&7",
+        "artist" : ["pH-1", " JAMIE"],
+        "genre" : "R&B",
+        "year": "2021"
+     },
+     {
+        "title" : "Love Me Like That",
+        "artist" : "Sam Kim",
+        "genre" : "R&B",
+        "year" : "2021"
+    },
+    {
+        "title" : "Transparent Soul",
+        "artist" : ["Willow Smith", " Travis Barker"],
+        "genre" : ["Pop", "Punk"],
+        "year" : "2021"
+    },
+    {
+        "title" : "Pas Le Choix",
+        "artist" : "Manal",
+        "genre" : "Pop",
+        "year" : "2019"
+    },
+    {
+        "title" : "Is this bad b**** number?",
+        "artist" : ["JEON SOYEON"," BIBI", " Lee Young Ji"],
+        "genre" : ["K-pop"," Rap"],
+        "year" : "2021"
+    },
+    {
+        "title" : "Broke",
+        "artist" :"Sam Henshaw",
+        "genre": ["R&B"," Soul"],
+        "year": "2018"
+    },
+    {
+        "title" : "Jaguar",
+        "artist" : "Victoria Monét",
+        "genre": ["R&B"," Soul"],
+        "year": "2020"
+    },
+    {
+        "title" : "Hawaí",
+        "artist" : "Maulma",
+        "genre": "Latino Urbano",
+        "year": "2020"
+    },
+    {
+        "title" : "Blood Sweat and Tears",
+        "artist" : "BTS",
+        "genre": "K-pop",
+        "year": "2016"
+    },
+    {
+        "title" : "Pride is the Devil",
+        "artist" : ["J.Cole"," Lil Baby"],
+        "genre": "Rap",
+        "year": "2021"
+    }
+ ]
